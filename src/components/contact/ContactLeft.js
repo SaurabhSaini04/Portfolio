@@ -16,11 +16,10 @@ const ContactLeft = () => {
           MERN Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis
-          ipsam autem cumque, accusantium dicta odio.
+        As a Software Engineer, my main objective is to apply scientific and mathematical principles to create computer software and solve problems in a constantly evolving technological environment.   
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">noor.jsdivs@gmail.com</span>
+          Email: <span className="text-lightText">saurabhsaini@gmail.com</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
