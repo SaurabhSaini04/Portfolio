@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                  I'm a full stack developer with some experience using React and Node.js. Reach out if you'd like to learn more.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
